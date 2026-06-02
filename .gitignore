@@ -1,0 +1,16 @@
+# Build outputs
+Debug/
+Release/
+
+# Object and dependency files
+*.o
+*.d
+*.su
+*.cyclo
+
+# Map and linker files
+*.map
+*.elf
+*.bin
+*.hex
+*.lst
