@@ -6,7 +6,7 @@ This project implements a full closed-loop speed controller for a brushed DC gea
 
 ## Demo Video
 
-[Watch the demo](YOUR_YOUTUBE_LINK_HERE)
+[Watch the demo](https://youtube.com/shorts/UwDEEWiA-Pc)
 
 The video shows:
 - `SET 300` — motor ramps up to 300 RPM and settles at steady state
